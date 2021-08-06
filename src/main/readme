@@ -1,0 +1,12 @@
+Utwórz użytkownika manualnie na stronie https://prod-kurs.coderslab.pl/.
+
+Możesz wykorzystać tymczasowego maila do utworzenia użytkownika https://10minutemail.com/.
+
+
+Napisz skrypt, który:
+
+będzie logować się na tego stworzonego użytkownika,
+wejdzie klikając w kafelek Addresses po zalogowaniu (adres, na którym powinniśmy się znaleźć to: https://prod-kurs.coderslab.pl/index.php?controller=addresses ),
+kliknie w + Create new address,
+wypełni formularz New address - dane powinny być pobierane z tabeli Examples w Gherkinie (alias, address, city, zip/postal, code, country, phone),
+sprawdzi czy dane w dodanym adresie są poprawne.
